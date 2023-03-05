@@ -14,7 +14,7 @@ const Hero = (props) => (
         </SectionTitle>
         <SectionText>
         Through the power of code, we have the ability to create solutions that can change the world and make a positive impact on the lives of millions. </SectionText>
-        <a href="https://google.com" download>
+        <a href="https://drive.google.com/file/d/1qonXybzG5XnZSR82ZBW_4o7DUZjWa_Id/view?usp=sharing" download>
           <Button>Get My Resume!</Button>
         </a>
       </LeftSection>
